@@ -1,0 +1,10 @@
+{
+    "form":{
+        "action":"/order_endpoint"
+    },
+    "fields": {
+        "product":{
+            "readonly":true
+        }
+    }
+}

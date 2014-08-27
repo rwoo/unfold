@@ -1,0 +1,18 @@
+{
+    "title":"Order",
+    "description":"Order Form.",
+    "type":"object",
+    "properties":{
+        "customer":{
+            "title":"Customer",
+            "description":"Enter the customer who orders.",
+            "type":"string",
+            "required":true
+        },
+        "product":{
+            "title":"Product",
+            "description":"Enter the product name",
+            "type":"string"
+        }
+    }
+}
